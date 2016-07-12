@@ -7,3 +7,4 @@ git branch test
 Creating a new branch is quick and simple.
 test origin
 test no ff
+test merge
